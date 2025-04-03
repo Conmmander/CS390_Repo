@@ -2,6 +2,7 @@ An h1 header
 ============
 This is a change to readme.md
 
+`Simulated merge conflict`
 Paragraphs are separated by a blank line. 
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists

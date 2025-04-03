@@ -3,7 +3,7 @@ An h1 header
 This is a change to readme.md
 
 Paragraphs are separated by a blank line. 
-
+`A second simulated merge conflict!`
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
